@@ -2,7 +2,8 @@
 
 Lookup recipes to some of your favorite meals.
 
-# Build
+# Run
 
-yarn install
-yarn run dev
+- `yarn install`
+
+- `yarn run dev`
